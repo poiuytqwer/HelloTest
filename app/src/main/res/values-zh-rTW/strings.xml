@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">哈摟測試</string>
+    <string name="app_test_name">哈摟_測試</string>
 </resources>
